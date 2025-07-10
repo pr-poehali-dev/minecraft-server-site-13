@@ -106,7 +106,7 @@ const Index = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Icon name="Server" size={20} className="text-blue-400" />
-                <span className="font-semibold">mc.craftworld.ru:25565</span>
+                <span className="font-semibold">mc.GigServer.ru</span>
               </div>
             </div>
           </div>
